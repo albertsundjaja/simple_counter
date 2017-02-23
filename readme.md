@@ -4,3 +4,7 @@
    edit the variable step = 1;
    change into desired step size e.g. step=5;
    (dont forget the semicolon)
+
+https://github.com/kodenusantara/simple_counter
+Source code may be modified/redistributed freely
+as long as this readme is included
